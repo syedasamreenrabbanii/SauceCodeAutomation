@@ -16,8 +16,6 @@
 ```
 	$ mvn clean test
 ```
-OR
-> Execute the [xml runner](src/test/java/SwagLabRunner.xml) to run all tests in the project
 
 ## Technologies:
 - Selenium WebDriver
