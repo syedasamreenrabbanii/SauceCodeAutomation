@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71782ddc-c9ad-45e6-a1f5-fdf6f5a737ee" name="Changes" comment="Allure Report configured">
+      <change afterPath="$PROJECT_DIR$/allure-results/0567a02e-9f26-4a74-a248-50f65a73ca45-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/194af68b-df76-4ad6-afab-3569c20745e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a12ac32-4113-4cd4-b387-d4b9b2fa7cf2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1af59be4-5b8e-4e3f-8e20-e7af0823f9ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1edfe184-c040-4d2c-a2c4-876577e0a561-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2008d4f8-7137-4dd1-af14-43f72e6baa03-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/220fec00-5728-4f53-9b9d-3be0e0bbfa3d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2881e7ff-e456-4eda-9e96-6d1dbf541b6b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2bc84ed1-03a4-4d7d-ba14-0fe3227892bd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e04e4ec-7233-4d54-aff1-66e67f9f509a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f37e674-11f6-44e0-9f73-46a70f1e67d9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ae46666-22f8-4bf1-8aea-e90fb87591a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/607ff234-07ea-4e81-8994-12672a32b26c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/653745eb-7f88-40e7-beaf-9fe8dd3332df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/90952b04-8d69-49a7-b704-9e3767285d21-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91dae532-c49a-4c8a-b27d-736db37f9124-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94e9abf1-306d-4cd2-b7d6-85f25740cba0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1a78d65-5eb0-4393-aae2-30223d380c8f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a84e5790-4672-415f-9eef-7e2638627c9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aed471ef-1089-4531-985e-91cf0b6002a0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be681aca-f7a4-44c9-98d3-bca887a9040f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d0dfac4f-7b3f-48d2-bac9-91cc1042b6c0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d606c997-eed9-4ce2-a10f-89de9647702f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df0f7423-84a6-4223-bda1-9e33b5850274-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ebca290f-ca2a-4e4a-86af-866269e232ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f1be6532-6ac2-4245-86b0-f496f740d4d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7d1078b-c08d-4235-aceb-17f7c710bdfa-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/healenium.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/SwagLabs/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/SwagLabs/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SwagLabs/CommonTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SwagLabs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SwagLabs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobjects/swaglabs/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobjects/swaglabs/BaseClass.java" afterDir="false" />
+
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N5VACwjrtLMphOMTdFtE9oy0ep" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mujtaba.afzal/IdeaProjects/FullStackTraining&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mujtaba.afzal\IdeaProjects\Selenium-Implementation\src\test\java\Tests\SwagLabs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CommonTests.windowHandle">
+    <configuration name="C:/Users/mujtaba.afzal/IdeaProjects/Selenium-Implementation/src/test/java/tests/SwagLabs/SwagLabRunner.xml" type="TestNG" nameIsGenerated="true">
+      <module name="Selenium-Implementation" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/tests/SwagLabs/SwagLabRunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.SwagLabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.SwagLabs" />
+      <option name="MAIN_CLASS_NAME" value="tests.SwagLabs.CommonTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonTests.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.SwagLabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.SwagLabs" />
+      <option name="MAIN_CLASS_NAME" value="tests.SwagLabs.CommonTests" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonTests.windowHandle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.SwagLabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.SwagLabs" />
+      <option name="MAIN_CLASS_NAME" value="tests.SwagLabs.CommonTests" />
+      <option name="METHOD_NAME" value="windowHandle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.SwagLabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.SwagLabs" />
+      <option name="MAIN_CLASS_NAME" value="tests.SwagLabs.HomePageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.SwagLabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.SwagLabs" />
+      <option name="MAIN_CLASS_NAME" value="tests.SwagLabs.ProductPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/mujtaba.afzal/IdeaProjects/Selenium-Implementation/src/test/java/tests/SwagLabs/SwagLabRunner.xml" />
+      <item itemvalue="TestNG.CommonTests" />
+      <item itemvalue="TestNG.CommonTests.login" />
+      <item itemvalue="TestNG.CommonTests.windowHandle" />
+      <item itemvalue="TestNG.HomePageTests" />
+      <item itemvalue="TestNG.ProductPageTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CommonTests.windowHandle" />
+        <item itemvalue="TestNG.CommonTests" />
+        <item itemvalue="TestNG.CommonTests.login" />
+        <item itemvalue="TestNG.HomePageTests" />
+        <item itemvalue="TestNG.ProductPageTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71782ddc-c9ad-45e6-a1f5-fdf6f5a737ee" name="Changes" comment="" />
+      <created>1678953789382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678953789382</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1679403372625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679403372625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes in basetest class and testng reporter enabled">
+      <created>1679478181315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679478181315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add testng report">
+      <created>1679862649847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679862649847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="changes in basetest class and testng reporter enabled" />
+    <MESSAGE value="add testng report" />
+    <MESSAGE value="Allure Report configured" />
+    <option name="LAST_COMMIT_MESSAGE" value="Allure Report configured" />
+  </component>
+</project>
