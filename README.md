@@ -23,6 +23,7 @@ OR
 - Selenium WebDriver
 - Java
 - Maven
+- Gherkin
 
 ## Patterns
 - Page Object Model
