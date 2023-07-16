@@ -33,4 +33,3 @@ OR
 ```
     $ allure serve allure-results
 ```
-* To view testNg report of test, access the file: */test-output/emailable-report.html*
